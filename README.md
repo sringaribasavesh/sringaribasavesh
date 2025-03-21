@@ -6,7 +6,7 @@ I'm a passionate Artificial Intelligence And Machine Learning student. Currently
 
 ## Skills
 - Languages: Python, C++, SQL and JAVA
-- Technologies: PyTorch, Scikit-learn, TensorFlow
+- Technologies: PyTorch, Scikit-learn, TensorFlow, Flask
 - Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
 
 ## 🌐 Connect with Me:
